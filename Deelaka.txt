@@ -1,0 +1,8 @@
+OSI Model
+IP Classes
+IP Subnetting
+NAT
+SSL/TLS
+
+https://go.microsoft.com/fwlink/p/?LinkID=403802&clcid=0x849&culture=en-us&country=lk
+
